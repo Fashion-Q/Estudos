@@ -4,4 +4,4 @@ git remove
 git status
 git diff -> adicione também [--cached]
 git commit -> exemplo: git commit -m "mensagem"
-
+git log -> para sair pressione q
