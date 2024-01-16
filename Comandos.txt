@@ -1,0 +1,7 @@
+git init -> inicializar um repositório
+git add -> adicionar arquivos para serem versionados
+git remove 
+git status
+git diff -> adicione também [--cached]
+git commit -> exemplo: git commit -m "mensagem"
+
